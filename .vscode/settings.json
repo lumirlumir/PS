@@ -4,5 +4,6 @@
   "editor.formatOnType": true,
   "editor.formatOnSave": true,
   // Extension: C/C++ Extension Pack (clang-format)
-  "C_Cpp.clang_format_fallbackStyle": "Google"
+  "C_Cpp.clang_format_fallbackStyle": "Google",
+  "C_Cpp.errorSquiggles": "disabled"
 }
