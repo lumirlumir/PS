@@ -75,7 +75,7 @@
 Git Bash 상에 아래 명령어를 입력합니다.
 
 ```bash
-git clone https://github.com/lumirlumir/PS.git
+git clone https://github.com/lumirlumir/PS_Framework.git
 ```
 
 # 3. File Structures
